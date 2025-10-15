@@ -1,7 +1,10 @@
+You can give me  your star if you like it :) 
+
 # 🧾 GitLab Billable Users Exporter
 
 A simple yet powerful **Bash script** that collects all **GitLab billable users** (across all groups) and exports them into a single **JSON report**.  
 This tool automates what GitLab’s API and CLI currently cannot do directly — fetching all **billable users** without manually looping through each group.
+
 
 ---
 
