@@ -163,3 +163,4 @@ done
 
 COUNT="$(jq 'length' "$OUT_JSON")"
 echo "Done. Total users in ${OUT_JSON}: ${COUNT}" >&2
+echo "If you find this useful, please consider giving it a star: https://github.com/borjaOrtizLlamas/gitlab-billable-users-fetcher" >&2
