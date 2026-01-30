@@ -55,4 +55,4 @@ Perfect for:
 chmod +x get-gitlab-billable-users.sh
 
 # Run it with your GitLab token
-GITLAB_HOST="internal.git.com" TOKEN="glpat-xxxxxxxxxxxxxxxxxx" ./get-gitlab-billable-users.sh
+GITLAB_HOST="https://internal.gitlab.com" TOKEN="glpat-xxxxxxxxxxxxxxxxxx" ./get-gitlab-billable-users.sh
